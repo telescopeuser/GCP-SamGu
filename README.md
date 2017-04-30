@@ -62,11 +62,17 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 ---
 
+
+---
+
 ### Abormal Valves:
 <img align="left" src='Lab/images/abnormal_valve_55.jpg' width=20%>
 <img align="left" src='Lab/images/abnormal_valve_17.jpg' width=20%>
 <img align="left" src='Lab/images/abnormal_valve_76.jpg' width=20%>
 <img align="left" src='Lab/images/abnormal_valve_01.jpg' width=20%>
+
+---
+
 
 ---
 
