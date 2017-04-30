@@ -43,8 +43,6 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 <img align="left" src='Lab/images/normal_valve_37.jpg' width=25%>
 <img align="left" src='Lab/images/normal_valve_01.jpg' width=25%>
 
----
-
 ### Abormal Valves:
 
 <img align="left" src='Lab/images/abnormal_valve_55.jpg' width=25%>
