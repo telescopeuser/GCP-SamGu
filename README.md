@@ -135,5 +135,3 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 * Idea of Transfer Learning
 * Architecture of Transfer Learning
 * Hands-on Datalab Workshop on GCP
-
----
