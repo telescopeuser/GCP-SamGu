@@ -37,17 +37,17 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 ### Normal Valves:
 
-<img align="left" src='Lab/images/normal_valve_68.jpg' width=22%>
-<img align="left" src='Lab/images/normal_valve_78.jpg' width=22%>
-<img align="left" src='Lab/images/normal_valve_37.jpg' width=22%>
-<img align="left" src='Lab/images/normal_valve_01.jpg' width=22%>
+<img align="left" src='Lab/images/normal_valve_68.jpg' width=23%>
+<img align="left" src='Lab/images/normal_valve_78.jpg' width=23%>
+<img align="left" src='Lab/images/normal_valve_37.jpg' width=23%>
+<img align="left" src='Lab/images/normal_valve_01.jpg' width=23%>
 
 ### Abormal Valves:
 
-<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=22%>
-<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=22%>
-<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=22%>
-<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=22%>
+<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=23%>
+<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=23%>
+<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=23%>
+<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=23%>
 
 <br>
 ### You will learn:
@@ -64,7 +64,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 * Basic working knowledge of GCP, Datalab and Python
 
 
-## 3. Environment Setup for: Hands-on Datalab Workshop on GCP
+# 3. Environment Setup for: Hands-on Datalab Workshop on GCP
 
 * Login Google Cloud Platform to start Datalab.
 
