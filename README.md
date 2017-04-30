@@ -37,17 +37,32 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 
 
+
+
 ### Normal Valves:
-<img align="left" src='Lab/images/normal_valve_68.jpg' width=25%>
-<img align="left" src='Lab/images/normal_valve_78.jpg' width=25%>
-<img align="right" src='Lab/images/normal_valve_37.jpg' width=25%>
-<img align="right" src='Lab/images/normal_valve_01.jpg' width=25%>
+<img align="left" src='Lab/images/normal_valve_68.jpg' width=20%>
+<img align="left" src='Lab/images/normal_valve_78.jpg' width=20%>
+<img align="left" src='Lab/images/normal_valve_37.jpg' width=20%>
+<img align="left" src='Lab/images/normal_valve_01.jpg' width=20%>
+
+
+
+
+
+
+
 
 ### Abormal Valves:
-<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=25%>
-<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=25%>
-<img align="right" src='Lab/images/abnormal_valve_76.jpg' width=25%>
-<img align="right" src='Lab/images/abnormal_valve_01.jpg' width=25%>
+<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=20%>
+<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=20%>
+<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=20%>
+<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=20%>
+
+
+
+
+
+
 
 ### You will learn:
 * Explore images in customer’s industry.
@@ -87,6 +102,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 # 4. Congratulations! You are now equipped with practical skill to carry out deep leaning image analysis in real world!
 
+### You have learnt:
 * Deep Learning Basics for Image Analysis
 * Real World Image Analysis Needs
 * Idea of Transfer Learning
