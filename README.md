@@ -35,21 +35,20 @@ The use case here is to use drone to provide regular surveillance on remote or d
 In this lab, you will carry out a transfer learning example based on Google Inception-v3 image recognition neural network.
 
 
-### Normal Valves:
 
-<img align="left" src='Lab/images/normal_valve_68.jpg' width=23%>
-<img align="left" src='Lab/images/normal_valve_78.jpg' width=23%>
-<img align="left" src='Lab/images/normal_valve_37.jpg' width=23%>
-<img align="left" src='Lab/images/normal_valve_01.jpg' width=23%>
+
+### Normal Valves:
+<img align="left" src='Lab/images/normal_valve_68.jpg' width=25%>
+<img align="left" src='Lab/images/normal_valve_78.jpg' width=25%>
+<img align="right" src='Lab/images/normal_valve_37.jpg' width=25%>
+<img align="right" src='Lab/images/normal_valve_01.jpg' width=25%>
 
 ### Abormal Valves:
+<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=25%>
+<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=25%>
+<img align="right" src='Lab/images/abnormal_valve_76.jpg' width=25%>
+<img align="right" src='Lab/images/abnormal_valve_01.jpg' width=25%>
 
-<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=23%>
-<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=23%>
-<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=23%>
-<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=23%>
-
-<br>
 ### You will learn:
 * Explore images in customer’s industry.
 * Reposition a pre-trained deep neural net for new image recognition task.
