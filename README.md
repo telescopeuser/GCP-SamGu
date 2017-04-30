@@ -38,17 +38,17 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 ### Normal Valves:
 
-<img align="left" src='Lab/images/normal_valve_68.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_78.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_37.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_01.jpg' width=20%>
+<img align="left" src='Lab/images/normal_valve_68.jpg' width=25%>
+<img align="left" src='Lab/images/normal_valve_78.jpg' width=25%>
+<img align="left" src='Lab/images/normal_valve_37.jpg' width=25%>
+<img align="left" src='Lab/images/normal_valve_01.jpg' width=25%>
 
 ### Abormal Valves:
 
-<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=20%>
+<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=25%>
+<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=25%>
+<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=25%>
+<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=25%>
 
 ### You will learn:
 * Explore images in customer’s industry.
@@ -86,7 +86,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 ### Google Deep Neural Network: Inception-v3:
 
-<img align="left" src='https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png' width=50%>
+<img align="left" src='https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png' width=100%>
 
 ---
 
