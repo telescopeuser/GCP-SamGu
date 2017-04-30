@@ -27,13 +27,6 @@ May 2017
 * Architecture of Transfer Learning
 * Hands-on Datalab Workshop on GCP
 
-<img align="left" src='Lab/reference/note_slide/note_slide_03.JPG' width=20%>
-<img align="left" src='Lab/reference/note_slide/note_slide_04.JPG' width=20%>
-<img align="left" src='Lab/reference/note_slide/note_slide_05.JPG' width=20%>
-<img align="left" src='Lab/reference/note_slide/note_slide_06.JPG' width=20%>
-<img align="left" src='Lab/reference/note_slide/note_slide_07.JPG' width=20%>
-
-
 # 2. Lab: Hands-on Datalab Workshop on GCP
 
 **Refer to lab workshop: Lab/Lab_Image_Analysis.ipynb**
