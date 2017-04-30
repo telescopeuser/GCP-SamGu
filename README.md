@@ -24,7 +24,6 @@ May 2017
 * Hands-on Datalab Workshop on GCP
 
 
-<br>
 # 2. Hands-on Datalab Workshop on GCP
 
 ### Image Analysis Lab
@@ -36,21 +35,19 @@ The use case here is to use drone to provide regular surveillance on remote or d
 In this lab, you will carry out a transfer learning example based on Google Inception-v3 image recognition neural network.
 
 
-<br>
 ### Normal Valves:
 
-<img align="left" src='Lab/images/normal_valve_68.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_78.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_37.jpg' width=20%>
-<img align="left" src='Lab/images/normal_valve_01.jpg' width=20%>
+<img align="left" src='Lab/images/normal_valve_68.jpg' width=22%>
+<img align="left" src='Lab/images/normal_valve_78.jpg' width=22%>
+<img align="left" src='Lab/images/normal_valve_37.jpg' width=22%>
+<img align="left" src='Lab/images/normal_valve_01.jpg' width=22%>
 
-<br>
 ### Abormal Valves:
 
-<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=20%>
-<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=20%>
+<img align="left" src='Lab/images/abnormal_valve_55.jpg' width=22%>
+<img align="left" src='Lab/images/abnormal_valve_17.jpg' width=22%>
+<img align="left" src='Lab/images/abnormal_valve_76.jpg' width=22%>
+<img align="left" src='Lab/images/abnormal_valve_01.jpg' width=22%>
 
 <br>
 ### You will learn:
@@ -67,7 +64,6 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 * Basic working knowledge of GCP, Datalab and Python
 
 
-<br>
 ## 3. Environment Setup for: Hands-on Datalab Workshop on GCP
 
 * Login Google Cloud Platform to start Datalab.
@@ -90,7 +86,6 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 <img align="left" src='https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png' width=100%>
 
-<br>
 # 4. Congratulations! You are now equipped with practical skill to carry out deep leaning image analysis in real world!
 
 * Deep Learning Basics for Image Analysis
