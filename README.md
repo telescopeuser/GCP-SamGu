@@ -98,7 +98,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 * Reposition a pre-trained deep neural net for new image recognition task.
 * Perform feature extraction.
 * Obtain deep feature representation of customer’s original image.
-* Train a Support Vector Machine for new classification task.
+* Train a simple machine learning model for new classification task.
 * Evaluate results of this transfer learning model.
 
 
