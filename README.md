@@ -1,10 +1,12 @@
 
 Firstly, please open this README document using your own web browser: https://github.com/telescopeuser/GCP-SamGu
 
+**Video lecture at:** YouTube [To be announced]
 
-### Video lecture link:
-* YouTube [To be announced]
-* 优酷 [To be announced]
+**Lecture notes at:** Notes\Notes_Image_Analysis.pdf
+
+**Lab python notebook at:** Lab\Lab_Image_Analysis.ipynb
+
 
 # < Using Deep Learning and Transfer Learning to Conduct Customized Image Analysis >
 
@@ -15,7 +17,9 @@ by: **Sam Gu** [ Data Science Trainer ]
 
 May 2017
 
-# 1. Agenda
+# 1. Lecture: Agenda
+
+**Refer to lecture notes: Notes/Notes_Image_Analysis.pdf**
 
 * Deep Learning Basics for Image Analysis
 * Real World Image Analysis Needs
@@ -23,17 +27,26 @@ May 2017
 * Architecture of Transfer Learning
 * Hands-on Datalab Workshop on GCP
 
+<img align="left" src='Lab/reference/note_slide/note_slide_03.JPG' width=20%>
+<img align="left" src='Lab/reference/note_slide/note_slide_04.JPG' width=20%>
+<img align="left" src='Lab/reference/note_slide/note_slide_05.JPG' width=20%>
+<img align="left" src='Lab/reference/note_slide/note_slide_06.JPG' width=20%>
+<img align="left" src='Lab/reference/note_slide/note_slide_07.JPG' width=20%>
 
-# 2. Hands-on Datalab Workshop on GCP
+
+# 2. Lab: Hands-on Datalab Workshop on GCP
+
+**Refer to lab workshop: Lab/Lab_Image_Analysis.ipynb**
+
+Credit: This python notebook was adapted based on: https://www.kernix.com/blog/image-classification-with-a-pre-trained-deep-neural-network_p11
 
 ### Image Analysis Lab
 ### Detect Normal or Abnormal Industrial Valves, Using Transfer Learning Technology upon Google's Pre-Trained Deep Neural Network
 
-The use case here is to use drone to provide regular surveillance on remote or dangerous areas, capturing image of industrial equipment like valves, steam the data back for automatic malfunction diagnosis, using machine intelligence. This improves safety and efficiency compared to current human-involved processes, without large investment on fixed sensor infrastructure. The core part of this solution involves advanced image analysis in real world.
+The use case here is to use drone to provide regular surveillance on remote or dangerous areas, capturing image of industrial equipment like valves, them steam the image back for automatic malfunction diagnosis, using machine intelligence. This improves safety and efficiency compared to current human-involved processes, without large investment on wired sensor infrastructure. The core part of this solution involves advanced image analysis in real world.
 
 
 In this lab, you will carry out a transfer learning example based on Google Inception-v3 image recognition neural network.
-
 
 
 
@@ -91,7 +104,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 ---
 
-### You will learn:
+### In this Lab, you will learn:
 * Explore images in customer’s industry.
 * Reposition a pre-trained deep neural net for new image recognition task.
 * Perform feature extraction.
@@ -127,7 +140,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 <img align="left" src='https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png' width=100%>
 
-# 4. Congratulations! You are now equipped with practical skill to carry out deep leaning image analysis in real world!
+# 4. Congratulations! You are now equipped with practical skills to carry out deep leaning image analysis in real world!
 
 ### You have learnt:
 * Deep Learning Basics for Image Analysis
