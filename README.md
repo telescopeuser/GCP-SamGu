@@ -1,7 +1,7 @@
 
 Firstly, please open this README document using your own web browser: https://github.com/telescopeuser/GCP-SamGu
 
-**Video lecture at:** YouTube [To be announced]
+**Video lecture at:** YouTube https://youtu.be/Bh443uea-U4
 
 **Lecture notes at:** Notes\Notes_Image_Analysis.pdf
 
