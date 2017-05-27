@@ -1,7 +1,7 @@
 
 Firstly, please open this README document using your own web browser: https://github.com/telescopeuser/GCP-SamGu
 
-<img align="right" src='Lab/reference/note_slide/video_tn.png' width=40%>
+[<img align="right" src='Lab/reference/note_slide/video_tn.png' width=40%>](https://youtu.be/Bh443uea-U4 "Click to play...")
 
 **Video lecture:** 
 
