@@ -40,7 +40,7 @@ Credit: This python notebook was adapted based on: https://www.kernix.com/blog/i
 ### Image Analysis Lab
 ### Detect Normal or Abnormal Industrial Valves, Using Transfer Learning Technology upon Google's Pre-Trained Deep Neural Network
 
-The use case here is to use drone to provide regular surveillance on remote or dangerous areas, capturing image of industrial equipment like valves, them steam the image back for automatic malfunction diagnosis, using machine intelligence. This improves safety and efficiency compared to current human-involved processes, without large investment on wired sensor infrastructure. The core part of this solution involves advanced image analysis in real world.
+The use case here is to use drone to provide regular surveillance on remote or dangerous areas, capturing image of industrial equipment like valves, then send the image back for automatic malfunction diagnosis, using machine intelligence. This improves safety and efficiency compared to current human-involved processes, without large investment on wired sensor infrastructure. The core part of this solution involves advanced image analysis in real world.
 
 
 In this lab, you will carry out a transfer learning example based on Google Inception-v3 image recognition neural network.
