@@ -1,6 +1,8 @@
 
 Firstly, please open this README document using your own web browser: https://github.com/telescopeuser/GCP-SamGu
 
+<img align="right" src='Lab/reference/note_slide/video_tn.png' width=30%>
+
 **Video lecture at:** YouTube https://youtu.be/Bh443uea-U4
 
 **Lecture notes at:** Notes\Notes_Image_Analysis.pdf
@@ -21,11 +23,7 @@ May 2017
 
 **Refer to lecture notes: Notes/Notes_Image_Analysis.pdf**
 
-* Deep Learning Basics for Image Analysis
-* Real World Image Analysis Needs
-* Idea of Transfer Learning
-* Architecture of Transfer Learning
-* Hands-on Datalab Workshop on GCP
+<img align="left" src='Lab/reference/note_slide/note_slide_02.JPG' width=50%>
 
 # 2. Lab: Hands-on Datalab Workshop on GCP
 
@@ -94,18 +92,8 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 ---
 
 ### In this Lab, you will learn:
-* Explore images in customer’s industry.
-* Reposition a pre-trained deep neural net for new image recognition task.
-* Perform feature extraction.
-* Obtain deep feature representation of customer’s original image.
-* Train a simple machine learning model for new classification task.
-* Evaluate results of this transfer learning model.
 
-
-### Prerequisites:
-* Google Cloud Platform Account
-* Basic working knowledge of GCP, Datalab and Python
-
+<img align="left" src='Lab/reference/note_slide/note_slide_08.JPG' width=50%>
 
 # 3. Environment Setup for: Hands-on Datalab Workshop on GCP
 
