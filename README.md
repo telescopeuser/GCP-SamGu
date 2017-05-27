@@ -1,7 +1,7 @@
 
 Firstly, please open this README document using your own web browser: https://github.com/telescopeuser/GCP-SamGu
 
-<img align="right" src='Lab/reference/note_slide/video_tn.png' width=30%>
+<img align="right" src='Lab/reference/note_slide/video_tn.png' width=40%>
 
 **Video lecture:** 
 
@@ -29,7 +29,7 @@ May 2017
 
 **Refer to lecture notes: Notes/Notes_Image_Analysis.pdf**
 
-<img align="left" src='Lab/reference/note_slide/note_slide_02.JPG' width=95%>
+<img align="left" src='Lab/reference/note_slide/note_slide_02.JPG' width=100%>
 
 # 2. Lab: Hands-on Datalab Workshop on GCP
 
@@ -99,7 +99,7 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 
 ### In this Lab, you will learn:
 
-<img align="left" src='Lab/reference/note_slide/note_slide_08.JPG' width=95%>
+<img align="left" src='Lab/reference/note_slide/note_slide_08.JPG' width=100%>
 
 # 3. Environment Setup for: Hands-on Datalab Workshop on GCP
 
