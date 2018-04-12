@@ -18,7 +18,7 @@ Lab\Lab_Image_Analysis.ipynb
 
 # < Using Deep Learning and Transfer Learning to Conduct Customized Image Analysis >
 
-<img align="right" src='https://cloud.google.com/_static/7fa22d3393/images/cloud/gcp-logo.svg' width=30%>
+<img align="right" src='https://raw.githubusercontent.com/telescopeuser/workshop_blog/master/wechat_tool/reference/logo.png' width=10%>
 
 by: **Sam Gu** [ Data Science Trainer ]
 
