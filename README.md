@@ -131,3 +131,8 @@ In this lab, you will carry out a transfer learning example based on Google Ince
 * Idea of Transfer Learning
 * Architecture of Transfer Learning
 * Hands-on Datalab Workshop on GCP
+
+# 5. [ Optional ] 
+# Export deep features as CSV file, to further analyze in Orange3 tool
+
+<img align="left" src='Lab/reference/orange/orange-valve.png' width=100%>
